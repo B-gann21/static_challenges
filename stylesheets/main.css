@@ -13,7 +13,27 @@ h1.topHeader {
   float: left
 }
 
-a.topLink {
+.artMuseumHeader {
+  width: 70%;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Verdana;
+  padding: 25px
+}
+
+.artMuseumDetails {
+  width: 70%;
+  font-size: 15px;
+  font-family: Arial, Verdana;
+  padding: 10px 25px 10px
+}
+
+a {
   float: right;
   padding: 15px
+}
+
+img.artMuseum{
+  width: 70%;
+  padding-left: 15px
 }
