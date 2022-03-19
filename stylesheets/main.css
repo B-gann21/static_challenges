@@ -4,13 +4,27 @@ header {
   height: 50px;
 }
 
+aside {
+  width: 20%;
+  padding-right: 40px;
+  float: right;
+}
+
 h1.topHeader {
   font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: bold;
   padding-top: 10px;
   padding-left: 10px;
-  float: left
+  float: left;
+}
+
+h1.sidebarHeader {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding-right: 10%;
+  padding-bottom: 5px;
 }
 
 .artMuseumHeader {
@@ -18,22 +32,28 @@ h1.topHeader {
   font-size: 20px;
   font-weight: bold;
   font-family: Arial, Verdana;
-  padding: 25px
+  padding: 25px;
 }
 
 .artMuseumDetails {
   width: 70%;
   font-size: 15px;
   font-family: Arial, Verdana;
-  padding: 10px 25px 10px
+  padding: 10px 25px 10px;
+}
+
+footer {
+  background: grey;
+  font-size: 15px;
+  font-family: Arial, Verdana;
 }
 
 a {
   float: right;
-  padding: 15px
+  padding: 15px;
 }
 
 img.artMuseum{
   width: 70%;
-  padding-left: 15px
+  padding-left: 15px;
 }
