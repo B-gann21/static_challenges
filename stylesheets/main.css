@@ -12,3 +12,8 @@ h1.topHeader {
   padding-left: 10px;
   float: left
 }
+
+a.topLink {
+  float: right;
+  padding: 15px
+}
